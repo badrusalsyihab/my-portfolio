@@ -9,9 +9,8 @@ import { MdDownload } from "react-icons/md";
 import { SiLeetcode } from "react-icons/si";
 
 function HeroSection({ profile }) {
-  console.log('profile', profile, userData);
   return (
-    <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
+    <section className="relative flex flex-col items-center justify-between py-4">
       <div className="grid grid-cols-1 items-center md:grid-cols-2 lg:gap-12 gap-y-8">
         <div className="flex flex-col justify-center rounded-lg p-3 lg:py-5 lg:px-12 bg-primary-bg h-full">
           <div className="flex w-full justify-center">
