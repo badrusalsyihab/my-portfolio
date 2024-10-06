@@ -8,6 +8,6 @@ export const userData = {
   stackOverflow: 'https://stackoverflow.com/users/badrusalsyihab',
   leetcode: "https://leetcode.com/u/badrusalsyihab/",
   resume: "#",
-  skills: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Vue 3', 'React', 'NextJS', 'Redux', 'NodeJS', 'Express', 'MongoDB', 'bootstrap', 'tailwind ', 'AntDesign', 'shadcn', 'Figma', 'Adobe Photoshop', 'Premiere Pro'],
+  skills: ['HTML', 'CSS', 'PHP', 'Laravel', 'JavaScript', 'TypeScript', 'Vue 3', 'React', 'NextJS', 'Redux', 'NodeJS', 'Express', 'MongoDB', 'bootstrap', 'tailwind ', 'AntDesign', 'shadcn', 'Figma'],
   timezone: '+6'
 };
